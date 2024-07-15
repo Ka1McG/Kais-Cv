@@ -1,0 +1,24 @@
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.exe.config
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.exe
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.pdb
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.xml
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\Search and Sort.vbproj.AssemblyReference.cache
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.Form1.resources
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.Resources.resources
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\Search and Sort.vbproj.GenerateResource.cache
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\Search and Sort.vbproj.CoreCompileInputs.cache
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.exe
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.xml
+E:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.pdb
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.exe.config
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.exe
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.pdb
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\bin\Debug\BubbleSort.xml
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\Search and Sort.vbproj.AssemblyReference.cache
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.Form1.resources
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.Resources.resources
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\Search and Sort.vbproj.GenerateResource.cache
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\Search and Sort.vbproj.CoreCompileInputs.cache
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.exe
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.xml
+G:\Work\Programming\Sorts and Searches\Bubble+Insert Sort\obj\Debug\BubbleSort.pdb
